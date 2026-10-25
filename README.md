@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Information Systems graduate from INTI International University, Malaysia**, with a background in **Mechatronics and Autonomous Systems**.
+I'm an [Master in Information Systems](https://newinti.edu.my/programme/master-in-information-systems-mis/) graduate from INTI International University, Malaysia, with a background in [Mechatronics and Autonomous Systems](https://www.ljmu.ac.uk/study/courses/undergraduates/2027/46183-mechatronics-and-autonomous-systems-beng-hons).
 
 My journey combines engineering, technology, and analytical problem-solving. I'm interested in using data to understand business challenges, uncover meaningful patterns, and support better decision-making.
 
